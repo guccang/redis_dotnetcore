@@ -1,0 +1,12 @@
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\bin\Debug\netcoreapp2.2\redis_dotnetcore.deps.json
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\bin\Debug\netcoreapp2.2\redis_dotnetcore.runtimeconfig.json
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\bin\Debug\netcoreapp2.2\redis_dotnetcore.runtimeconfig.dev.json
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\bin\Debug\netcoreapp2.2\redis_dotnetcore.dll
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\obj\Debug\netcoreapp2.2\redis_dotnetcore.csprojAssemblyReference.cache
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\obj\Debug\netcoreapp2.2\redis_dotnetcore.csproj.CoreCompileInputs.cache
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\obj\Debug\netcoreapp2.2\redis_dotnetcore.AssemblyInfoInputs.cache
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\obj\Debug\netcoreapp2.2\redis_dotnetcore.AssemblyInfo.cs
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\bin\Debug\netcoreapp2.2\redis_dotnetcore.pdb
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\obj\Debug\netcoreapp2.2\redis_dotnetcore.dll
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\obj\Debug\netcoreapp2.2\redis_dotnetcore.pdb
+E:\myGithub\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\redis_dotnetcore\bin\Debug\netcoreapp2.2\config.log4net
